@@ -8,6 +8,23 @@
       "expo-router"
     ],
     "name": "job-finder",
-    "slug": "job-finder"
+    "slug": "job-finder",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "58a0ba88-b00c-4cdc-858f-9135272bd99a"
+      }
+    },
+    "owner": "husnainalyyy",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/58a0ba88-b00c-4cdc-858f-9135272bd99a"
+    },
+    "android": {},
+    "ios": {}
   }
 }
